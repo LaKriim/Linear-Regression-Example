@@ -12,6 +12,7 @@ Ces données visent à construire un modèle pour prédire la quantité d’éne
   3) L’humidité relative (Relative Humidity: RH) (entre 25.56% et 100.16%)
   4) Le vaccum d’échappement (Exhaust Vacuum:V) (entre 25.36 et 81.56 cm Hg)
 La sortie prédite (5e colonne du tableau) est l’énergie électrique nette produite par heure.
+
 Implantation demandée:
   Tester deux cas de régression linéaire sur les données. On vous demande de choisir aléatoirement 70% des données pour l’entrainement et le restant des données pour la validation des modèles.
   Afficher pour chaque cas l’erreur de régression sur les données de test :
