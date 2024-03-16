@@ -15,6 +15,9 @@ La sortie prédite (5e colonne du tableau) est l’énergie électrique nette pr
 
 Implantation demandée:
   Tester deux cas de régression linéaire sur les données. On vous demande de choisir aléatoirement 70% des données pour l’entrainement et le restant des données pour la validation des modèles.
+  
   Afficher pour chaque cas l’erreur de régression sur les données de test :
+    
     Cas 1 : Utiliser une régression linéaire en combinant deux à deux les 4 caractéristiques pour la prédiction ainsi que le produit de ces caractéristiques. Afficher les graphes de régression correspondants et les erreurs moyennes du test de régression.
+    
     Cas 2 : Répéter le même exercice maintenant en ayant les 4 caractéristiques combinées pour faire la prédiction et mesurer l’erreur de validation. On peut omettre d’afficher les graphes dans ce cas, mais on devrait afficher l’erreur moyenne du test de régression. 
